@@ -1,0 +1,8 @@
+{
+  "name": "RoadGuard AI: UAV Defect Detection",
+  "description": "Hybrid Deep Learning & UAV Vision System for Road Surface Defect Detection using YOLOv8, CNN, and OpenCV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
